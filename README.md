@@ -3,7 +3,7 @@
 <h6 align="left">저는 어쩌고 저쩌고</h6>
 </p>
 
-### Skillset
+## Skillset
 > <p align="left">
 >   <ui>
 >     <li> Programing Language :
@@ -41,16 +41,17 @@
 > </p>
 
 ## Experience
-| 안녕 | 하세요 | ㅋ |
-| :-----| :-----| :-----|
+| Employment Period | Company Name | Team / Position | Job | Task | 
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 22.02.07 ~ 23.04.30 <br> **(1 year 3 month)** | 효성 ITX | SF분석팀 / 사원 | Data Analytics, Engineer | AI 시스템 구축(ETL, AI Modeling)<br> BI 대시보드 화면 개발 |
+| 21.09.01 ~ 22.12.31 <br> **(4 month)** | 한국지능정보사회<br>진흥원 | 데이터기반행정팀 / 인턴 | Data Consultant | 데이터 시각화 및 정책 제안<br>(Python, QGIS) |
 
-
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=yoosh1031&theme=vue&show_icons=true"/></a>
 </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoosh1031%2Fhit-counter&count_bg=%23EEBDD8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)
 
-## Bigdata Skills
+
 
 </div>
