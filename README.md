@@ -40,7 +40,7 @@
 | Employment Period | Company Name | Team / Position | Job | Task | 
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | 22.02.07 ~ 23.04.30 <br> **(1 year 3 month)** | 효성 ITX | SF분석팀 / 사원 | Data Analytics, Engineer | AI 시스템 구축(ETL, AI Modeling)<br> BI 대시보드 화면 개발 |
-| 21.09.01 ~ 22.12.31 <br> **(4 month)** | 한국지능정보사회<br>진흥원 | 데이터기반행정팀 / 인턴 | Data Consultant | 데이터 시각화 및 정책 제안<br>(Python, QGIS) |
+| 21.09.01 ~ 22.12.31 <br> **(4 month)** | 한국<br>지능정보사회<br>진흥원 | 데이터기반행정팀 / 인턴 | Data Consultant | 데이터 시각화 및 정책 제안<br>(Python, QGIS) |
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yoosh1031&theme=vue&show_icons=true"/></a>
